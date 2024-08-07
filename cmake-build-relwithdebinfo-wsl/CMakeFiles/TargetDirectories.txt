@@ -1,0 +1,3 @@
+/mnt/c/Users/Crisiroid/Desktop/Uni/Luminex/cmake-build-relwithdebinfo-wsl/CMakeFiles/lum.dir
+/mnt/c/Users/Crisiroid/Desktop/Uni/Luminex/cmake-build-relwithdebinfo-wsl/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Crisiroid/Desktop/Uni/Luminex/cmake-build-relwithdebinfo-wsl/CMakeFiles/rebuild_cache.dir
